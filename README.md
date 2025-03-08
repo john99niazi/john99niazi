@@ -1,3 +1,4 @@
+![logo](https://github.com/john99niazi/john99niazi/blob/main/DATA%20ENGINEER%20(2)%20(1).png)
 <h1 align="center">Hi 👋, I'm Junaid Khan</h1>
 <h3 align="center">A passionate Data Science student.</h3>
 <img align="right" alt="Big Data" width="400" src="https://www.sardonyx.in/themes/images/bigdata-solution/sardonyx-bigdata-rowimg5.gif">
